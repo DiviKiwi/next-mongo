@@ -36,17 +36,18 @@
 .item p {
   margin: 0;
   color: #666;
+  margin-bottom: 10px;
 }
 
 .imageContainer {
-  margin: 20px auto;
+  margin: 10px auto;
   position: relative;
-  width: 200px;
-  height: 300px;
+  width: 400px;
+  height: auto;
 }
 
 .imageContainer img {
-  width: 70%;
+  width: 100%;
   margin: 0 auto;
   object-fit: cover;
   border-radius: 4px;

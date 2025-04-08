@@ -13,7 +13,7 @@ export default function Home() {
           priority
         />
         <p className="text-center text-3xl sm:text-left">
-          Save and see your changes instantly.
+          Save Next app and see your changes instantly.
         </p>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
